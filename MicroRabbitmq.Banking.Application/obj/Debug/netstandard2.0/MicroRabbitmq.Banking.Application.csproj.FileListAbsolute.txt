@@ -5,3 +5,7 @@ C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Application\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Application.AssemblyInfo.cs
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Application\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Application.dll
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Application\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Application.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Application\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Application.csprojAssemblyReference.cache
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Application\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Application\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Application\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Application.csproj.CopyComplete

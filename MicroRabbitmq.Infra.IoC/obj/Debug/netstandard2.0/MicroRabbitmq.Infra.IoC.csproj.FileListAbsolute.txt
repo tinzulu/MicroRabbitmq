@@ -11,3 +11,9 @@ C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbitmq.Infra.IoC.csproj.CopyComplete
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbitmq.Infra.IoC.dll
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbitmq.Infra.IoC.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Application.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Data.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Data.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Application.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.pdb

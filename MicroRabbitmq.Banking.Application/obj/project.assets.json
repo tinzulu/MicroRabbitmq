@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "MicroRabbitmq.Banking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MicroRabbitmq.Banking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbitmq.Banking.Domain.dll": {}
+        }
       }
     }
   },
@@ -171,10 +181,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "MicroRabbitmq.Banking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbitmq.Banking.Domain/MicroRabbitmq.Banking.Domain.csproj",
+      "msbuildProject": "../MicroRabbitmq.Banking.Domain/MicroRabbitmq.Banking.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "MicroRabbitmq.Banking.Domain >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -207,7 +223,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Banking.Domain\\MicroRabbitmq.Banking.Domain.csproj": {
+              "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Banking.Domain\\MicroRabbitmq.Banking.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
