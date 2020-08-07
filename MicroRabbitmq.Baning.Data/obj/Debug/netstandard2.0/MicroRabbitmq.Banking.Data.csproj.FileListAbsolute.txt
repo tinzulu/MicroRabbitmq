@@ -9,3 +9,5 @@ C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Baning.Data\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.dll
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Baning.Data\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.pdb
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Baning.Data\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Data.csproj.CopyComplete
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Baning.Data\bin\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Baning.Data\bin\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.pdb

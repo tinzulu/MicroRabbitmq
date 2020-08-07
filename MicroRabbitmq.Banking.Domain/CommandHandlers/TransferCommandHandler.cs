@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using MicroRabbitmq.Banking.Domain.Commands;
+using MicroRabbitmq.Banking.Domain.Events;
 using MicroRabbitmq.Domain.Core.Bus;
 using System;
 using System.Collections.Generic;
@@ -21,6 +22,8 @@ namespace MicroRabbitmq.Banking.Domain.CommandHandlers
         public Task<bool> Handle(CreateTransfeCommand request, CancellationToken cancellationToken)
         {
             //publish event to RabbitMQ
+            _bus.Publish(new TransferCreatedEvent(request.From, request.To, request.Amount));
+
             return Task.FromResult(true);
         }
     }

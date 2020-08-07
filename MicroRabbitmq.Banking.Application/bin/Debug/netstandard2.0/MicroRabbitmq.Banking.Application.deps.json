@@ -16,6 +16,14 @@
           "MicroRabbitmq.Banking.Application.dll": {}
         }
       },
+      "MediatR/8.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.1.0.0"
+          }
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "NETStandard.Library/2.0.3": {
         "dependencies": {
@@ -23,8 +31,19 @@
         }
       },
       "MicroRabbitmq.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbitmq.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "MicroRabbitmq.Banking.Domain.dll": {}
+        }
+      },
+      "MicroRabbitmq.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "8.1.0"
+        },
+        "runtime": {
+          "MicroRabbitmq.Domain.Core.dll": {}
         }
       }
     }
@@ -34,6 +53,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MediatR/8.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KJFnA0MV83bNOhvYbjIX1iDykhwFXoQu0KV7E1SVbNA/CmO2I7SAm2Baly0eS7VJ2GwlmStLajBfeiNgTpvYzQ==",
+      "path": "mediatr/8.1.0",
+      "hashPath": "mediatr.8.1.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
@@ -50,6 +76,11 @@
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
     "MicroRabbitmq.Banking.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbitmq.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

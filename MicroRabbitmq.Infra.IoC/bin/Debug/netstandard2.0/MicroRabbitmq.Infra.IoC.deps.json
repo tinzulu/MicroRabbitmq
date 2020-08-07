@@ -1303,6 +1303,9 @@
         }
       },
       "MicroRabbitmq.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbitmq.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "MicroRabbitmq.Banking.Domain.dll": {}
         }
