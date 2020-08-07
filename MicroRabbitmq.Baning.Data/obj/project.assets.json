@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "MediatR/8.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
         "type": "package",
         "dependencies": {
@@ -1720,16 +1729,50 @@
       "MicroRabbitmq.Banking.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MicroRabbitmq.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MicroRabbitmq.Banking.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/MicroRabbitmq.Banking.Domain.dll": {}
         }
+      },
+      "MicroRabbitmq.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MediatR": "8.1.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbitmq.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbitmq.Domain.Core.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "MediatR/8.1.0": {
+      "sha512": "KJFnA0MV83bNOhvYbjIX1iDykhwFXoQu0KV7E1SVbNA/CmO2I7SAm2Baly0eS7VJ2GwlmStLajBfeiNgTpvYzQ==",
+      "type": "package",
+      "path": "mediatr/8.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.dll",
+        "lib/net461/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.8.1.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "sha512": "yuvf07qFWFqtK3P/MRkEKLhn5r2UbSpVueRziSqj0yJQIKFwG1pq9mOayK3zE5qZCTs0CbrwL9M6R8VwqyGy2w==",
       "type": "package",
@@ -6208,6 +6251,11 @@
       "type": "project",
       "path": "../MicroRabbitmq.Banking.Domain/MicroRabbitmq.Banking.Domain.csproj",
       "msbuildProject": "../MicroRabbitmq.Banking.Domain/MicroRabbitmq.Banking.Domain.csproj"
+    },
+    "MicroRabbitmq.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbitmq.Domain.Core/MicroRabbitmq.Domain.Core.csproj",
+      "msbuildProject": "../MicroRabbitmq.Domain.Core/MicroRabbitmq.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {

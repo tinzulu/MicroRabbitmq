@@ -1448,6 +1448,9 @@
       "MicroRabbitmq.Banking.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MicroRabbitmq.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MicroRabbitmq.Banking.Domain.dll": {}
         },
