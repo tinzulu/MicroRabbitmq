@@ -7,7 +7,6 @@ C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Api\bin\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Api.runtimeconfig.dev.json
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Api\bin\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Api.dll
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Api\bin\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Api.pdb
-C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Api\obj\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Api.csprojAssemblyReference.cache
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Api\obj\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Api\obj\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Api.AssemblyInfoInputs.cache
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Api\obj\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Api.AssemblyInfo.cs

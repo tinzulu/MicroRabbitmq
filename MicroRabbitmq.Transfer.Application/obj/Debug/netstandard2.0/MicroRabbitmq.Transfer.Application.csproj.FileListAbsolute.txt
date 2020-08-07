@@ -1,7 +1,6 @@
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Application\bin\Debug\netstandard2.0\MicroRabbitmq.Transfer.Application.deps.json
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Application\bin\Debug\netstandard2.0\MicroRabbitmq.Transfer.Application.dll
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Application\bin\Debug\netstandard2.0\MicroRabbitmq.Transfer.Application.pdb
-C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Application\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Application.csprojAssemblyReference.cache
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Application\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Application.AssemblyInfoInputs.cache
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Application\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Application.AssemblyInfo.cs
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Application\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Application.dll
