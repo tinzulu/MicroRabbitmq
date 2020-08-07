@@ -5,4 +5,3 @@ C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\obj\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.AssemblyInfo.cs
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\obj\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.dll
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\obj\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.pdb
-C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\obj\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.csprojAssemblyReference.cache

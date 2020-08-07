@@ -1,0 +1,7 @@
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Domain\bin\Debug\netstandard2.0\MicroRabbitmq.Transfer.Domain.deps.json
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Domain\bin\Debug\netstandard2.0\MicroRabbitmq.Transfer.Domain.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Domain\bin\Debug\netstandard2.0\MicroRabbitmq.Transfer.Domain.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Domain\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Domain.AssemblyInfoInputs.cache
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Domain\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Domain.AssemblyInfo.cs
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Domain\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Domain.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Domain\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Domain.pdb
