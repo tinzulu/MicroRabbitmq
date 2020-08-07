@@ -1,0 +1,8 @@
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\bin\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.deps.json
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\bin\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\obj\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.csprojAssemblyReference.cache
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\obj\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\obj\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.AssemblyInfo.cs
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\bin\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\obj\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Domain.Core\obj\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.pdb
