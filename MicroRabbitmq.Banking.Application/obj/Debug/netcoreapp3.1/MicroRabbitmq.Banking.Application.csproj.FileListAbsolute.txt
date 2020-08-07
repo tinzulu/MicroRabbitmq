@@ -1,0 +1,2 @@
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbitmq.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbitmq.Banking.Application.AssemblyInfo.cs

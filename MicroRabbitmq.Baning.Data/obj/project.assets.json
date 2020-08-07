@@ -185,9 +185,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Baning.Data\\MicroRabbitmq.Baning.Data.csproj",
-      "projectName": "MicroRabbitmq.Baning.Data",
-      "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Baning.Data\\MicroRabbitmq.Baning.Data.csproj",
+      "projectUniqueName": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Baning.Data\\MicroRabbitmq.Banking.Data.csproj",
+      "projectName": "MicroRabbitmq.Banking.Data",
+      "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Baning.Data\\MicroRabbitmq.Banking.Data.csproj",
       "packagesPath": "C:\\Users\\tzulu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Baning.Data\\obj\\",
       "projectStyle": "PackageReference",

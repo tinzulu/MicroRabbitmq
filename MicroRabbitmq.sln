@@ -33,7 +33,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbitmq.Banking.Api",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbitmq.Banking.Application", "MicroRabbitmq.Banking.Application\MicroRabbitmq.Banking.Application.csproj", "{1A6C845C-5F4D-4A5D-9E76-C0CFBC46B57F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbitmq.Baning.Data", "MicroRabbitmq.Baning.Data\MicroRabbitmq.Baning.Data.csproj", "{1F4C3FB3-7BB0-4EAA-BEA0-90275A801CB1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbitmq.Banking.Data", "MicroRabbitmq.Baning.Data\MicroRabbitmq.Banking.Data.csproj", "{1F4C3FB3-7BB0-4EAA-BEA0-90275A801CB1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbitmq.Banking.Domain", "MicroRabbitmq.Banking.Domain\MicroRabbitmq.Banking.Domain.csproj", "{EB6CBF8D-3A73-420C-9E42-7DC8CF8CD121}"
 EndProject

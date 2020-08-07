@@ -1,0 +1,7 @@
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Domain\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.deps.json
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Domain\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Domain\bin\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Domain\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Domain\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.AssemblyInfo.cs
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Domain\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Domain\obj\Debug\netstandard2.0\MicroRabbitmq.Banking.Domain.pdb
