@@ -4,6 +4,142 @@
     "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.IoC\\MicroRabbitmq.Infra.IoC.csproj": {}
   },
   "projects": {
+    "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\MicroRabbitmq.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\MicroRabbitmq.Domain.Core.csproj",
+        "projectName": "MicroRabbitmq.Domain.Core",
+        "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\MicroRabbitmq.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\tzulu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tzulu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.Bus\\MicroRabbitmq.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.Bus\\MicroRabbitmq.Infra.Bus.csproj",
+        "projectName": "MicroRabbitmq.Infra.Bus",
+        "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.Bus\\MicroRabbitmq.Infra.Bus.csproj",
+        "packagesPath": "C:\\Users\\tzulu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tzulu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\MicroRabbitmq.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\MicroRabbitmq.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.IoC\\MicroRabbitmq.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -29,7 +165,14 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\MicroRabbitmq.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\MicroRabbitmq.Domain.Core.csproj"
+              },
+              "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.Bus\\MicroRabbitmq.Infra.Bus.csproj": {
+                "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.Bus\\MicroRabbitmq.Infra.Bus.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

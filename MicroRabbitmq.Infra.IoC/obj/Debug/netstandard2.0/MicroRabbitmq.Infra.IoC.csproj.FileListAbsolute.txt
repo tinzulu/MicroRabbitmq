@@ -5,3 +5,9 @@ C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Infra.IoC.pdb
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbitmq.Infra.IoC.dll
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbitmq.Infra.IoC.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Infra.Bus.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Domain.Core.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\bin\Debug\netstandard2.0\MicroRabbitmq.Infra.Bus.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbitmq.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Infra.IoC\obj\Debug\netstandard2.0\MicroRabbitmq.Infra.IoC.csproj.CopyComplete
