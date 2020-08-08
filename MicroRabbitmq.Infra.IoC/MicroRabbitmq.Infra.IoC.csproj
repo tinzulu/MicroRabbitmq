@@ -14,6 +14,8 @@
     <ProjectReference Include="..\MicroRabbitmq.Banking.Domain\MicroRabbitmq.Banking.Domain.csproj" />
     <ProjectReference Include="..\MicroRabbitmq.Domain.Core\MicroRabbitmq.Domain.Core.csproj" />
     <ProjectReference Include="..\MicroRabbitmq.Infra.Bus\MicroRabbitmq.Infra.Bus.csproj" />
+    <ProjectReference Include="..\MicroRabbitmq.Transfer.Application\MicroRabbitmq.Transfer.Application.csproj" />
+    <ProjectReference Include="..\MicroRabbitmq.Transfer.Data\MicroRabbitmq.Transfer.Data.csproj" />
   </ItemGroup>
 
 </Project>
