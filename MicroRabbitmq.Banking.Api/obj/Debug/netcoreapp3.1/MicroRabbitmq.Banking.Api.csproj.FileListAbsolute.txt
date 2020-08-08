@@ -73,3 +73,9 @@ C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbitmq.Banking.Api.dll
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbitmq.Banking.Api.pdb
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbitmq.Banking.Api.genruntimeconfig.cache
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Application.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Data.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Domain.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Application.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Data.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbitmq.Transfer.Domain.pdb

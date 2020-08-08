@@ -1405,6 +1405,8 @@
           "MicroRabbitmq.Banking.Domain": "1.0.0",
           "MicroRabbitmq.Domain.Core": "1.0.0",
           "MicroRabbitmq.Infra.Bus": "1.0.0",
+          "MicroRabbitmq.Transfer.Application": "1.0.0",
+          "MicroRabbitmq.Transfer.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.6"
         },
         "runtime": {
@@ -1412,6 +1414,42 @@
         },
         "compile": {
           "MicroRabbitmq.Infra.IoC.dll": {}
+        }
+      },
+      "MicroRabbitmq.Transfer.Application/1.0.0": {
+        "dependencies": {
+          "MicroRabbitmq.Domain.Core": "1.0.0",
+          "MicroRabbitmq.Transfer.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabbitmq.Transfer.Application.dll": {}
+        },
+        "compile": {
+          "MicroRabbitmq.Transfer.Application.dll": {}
+        }
+      },
+      "MicroRabbitmq.Transfer.Data/1.0.0": {
+        "dependencies": {
+          "MicroRabbitmq.Transfer.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6"
+        },
+        "runtime": {
+          "MicroRabbitmq.Transfer.Data.dll": {}
+        },
+        "compile": {
+          "MicroRabbitmq.Transfer.Data.dll": {}
+        }
+      },
+      "MicroRabbitmq.Transfer.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbitmq.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "MicroRabbitmq.Transfer.Domain.dll": {}
+        },
+        "compile": {
+          "MicroRabbitmq.Transfer.Domain.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3756,6 +3794,21 @@
       "sha512": ""
     },
     "MicroRabbitmq.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbitmq.Transfer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbitmq.Transfer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroRabbitmq.Transfer.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

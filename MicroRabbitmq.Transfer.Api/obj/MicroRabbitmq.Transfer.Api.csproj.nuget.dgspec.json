@@ -687,7 +687,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\MicroRabbitmq.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Domain.Core\\MicroRabbitmq.Domain.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
