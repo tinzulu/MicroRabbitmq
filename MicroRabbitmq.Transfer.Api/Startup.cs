@@ -4,8 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using MediatR;
 using MicroRabbitmq.Banking.Data.Context;
+using MicroRabbitmq.Domain.Core.Bus;
 using MicroRabbitmq.Infra.IoC;
 using MicroRabbitmq.Transfer.Data.Context;
+using MicroRabbitmq.Transfer.Domain.Events;
+using MicroRabbitmq.Transfer.Domain.EventsHandlers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -75,6 +78,14 @@ namespace MicroRabbitmq.Transfer.Api
             {
                 endpoints.MapControllers();
             });
+
+            ConfigureEventBus(app);
+        }
+
+        private void ConfigureEventBus(IApplicationBuilder app)
+        {
+            var eventBus = app.ApplicationServices.GetRequiredService<IEventBus>();
+            eventBus.Subscribe<TransferCreatedEvent, TransferEventHandler>();
         }
     }
 }
