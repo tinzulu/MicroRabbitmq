@@ -18,6 +18,7 @@ namespace MicroRabbitmq.Transfer.Data.Repository
         public void Add(TransferLog transferLog)
         {
             _tdc.Add(transferLog);
+            _tdc.SaveChanges();
         }
 
         public IEnumerable<TransferLog> GetTransferLogs()
