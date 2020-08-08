@@ -62,7 +62,7 @@ namespace MicroRabbitmq.Transfer.Api
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Tranfer Microservices v1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Transfer Microservices v1");
             });
 
             app.UseHttpsRedirection();

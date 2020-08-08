@@ -450,9 +450,6 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Baning.Data\\MicroRabbitmq.Banking.Data.csproj": {
-                "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Baning.Data\\MicroRabbitmq.Banking.Data.csproj"
-              },
               "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.IoC\\MicroRabbitmq.Infra.IoC.csproj": {
                 "projectPath": "C:\\Users\\tzulu\\Documents\\Visual Studio 2019\\Projects\\MicroRabbitmq\\MicroRabbitmq.Infra.IoC\\MicroRabbitmq.Infra.IoC.csproj"
               },
@@ -478,6 +475,12 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

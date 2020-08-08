@@ -5446,6 +5446,7 @@
       "MediatR >= 8.1.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 8.1.0",
       "MicroRabbitmq.Infra.IoC >= 1.0.0",
+      "Microsoft.EntityFrameworkCore.Design >= 3.1.6",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.6",
       "Swashbuckle.AspNetCore >= 5.5.1"
     ]
@@ -5502,6 +5503,12 @@
           "MediatR.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[8.1.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.1.6, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
