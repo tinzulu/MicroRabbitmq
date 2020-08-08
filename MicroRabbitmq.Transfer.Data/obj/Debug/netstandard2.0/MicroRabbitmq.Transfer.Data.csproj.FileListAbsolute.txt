@@ -5,3 +5,7 @@ C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Data\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Data.AssemblyInfo.cs
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Data\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Data.dll
 C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Data\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Data.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Data\bin\Debug\netstandard2.0\MicroRabbitmq.Transfer.Domain.dll
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Data\bin\Debug\netstandard2.0\MicroRabbitmq.Transfer.Domain.pdb
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Data\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Data.csprojAssemblyReference.cache
+C:\Users\tzulu\Documents\Visual Studio 2019\Projects\MicroRabbitmq\MicroRabbitmq.Transfer.Data\obj\Debug\netstandard2.0\MicroRabbitmq.Transfer.Data.csproj.CopyComplete
